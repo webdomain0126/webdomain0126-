@@ -1,20 +1,22 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Taslima+Akhter;Python+AI+Cloud+DevOps;Building+real-world+projects&center=true&width=650)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Taslima+Akhter;Python+AI+Cloud+DevOps;Building+real-world+projects&center=true&width=650&color=800000)
 
-### 👩‍💻 Python | AI | Cloud | DevOps Learner  
+### <span style="color:#800000">👩‍💻 Python | AI | Cloud | DevOps Learner</span>  
 Focused on building practical projects for remote tech roles
 
+---
 
-## About Me
+## <span style="color:#800000">About Me</span>
 
 I am a motivated Python and AI learner expanding into Cloud and DevOps.  
 I focus on hands-on projects, clean code, and continuous improvement.
 
-- 🔭 Working on Python & AI projects
-- 🌱 Learning AWS & DevOps fundamentals
+- 🔭 Working on Python & AI projects  
+- 🌱 Learning AWS & DevOps fundamentals  
 - 🎯 Goal: Cloud / AI Engineer (Remote)
 
+---
 
-## Skills
+## <span style="color:#800000">Skills</span>
 
 **Programming:** Python  
 **AI / ML:** NLP basics, ML fundamentals  
@@ -22,19 +24,16 @@ I focus on hands-on projects, clean code, and continuous improvement.
 **DevOps:** Git, GitHub, Docker (learning)  
 **Tools:** VS Code, Linux
 
-## Featured Projects
+---
+
+## <span style="color:#800000">Featured Projects</span>
 
 - 🔹 AI Article Summarizer  
-  A tool that automatically summarizes long articles into concise, readable points using NLP techniques.
-
 - 🔹 AI News Recommender  
-  Personalized news recommendation system with category tagging, read-time estimation, and user preferences.
-
 - 🔹 Sentiment Analysis Tool  
-  Analyzes text data to detect positive, negative, or neutral sentiments for insights and decision-making.
 
-- 🔹 Smart Data AI Platform  
-  An all-in-one platform integrating data processing, AI model deployment, and analytics for smarter decision-making.
+➡️ Each project includes a clear README and clean code
+
 
 
 
