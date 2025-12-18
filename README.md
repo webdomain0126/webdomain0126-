@@ -23,8 +23,10 @@ I focus on hands-on projects, clean code, and continuous improvement.
 **Cloud:** AWS (EC2, S3 – learning)  
 **DevOps:** Git, GitHub, Docker (learning)  
 **Tools:** VS Code, Linux
+---
 
----## <span style="color:#800000">Featured Projects</span>
+## <span style="color:#800000">Featured Projects</span>
+
 
 - 🔹 **AI Article Summarizer**  
   Automatically summarizes articles and generates concise insights.
