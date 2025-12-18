@@ -24,15 +24,25 @@ I focus on hands-on projects, clean code, and continuous improvement.
 **DevOps:** Git, GitHub, Docker (learning)  
 **Tools:** VS Code, Linux
 
----
+---## <span style="color:#800000">Featured Projects</span>
 
-## <span style="color:#800000">Featured Projects</span>
+- 🔹 **AI Article Summarizer**  
+  Automatically summarizes articles and generates concise insights.
 
-- 🔹 AI Article Summarizer  
-- 🔹 AI News Recommender  
-- 🔹 Sentiment Analysis Tool  
+- 🔹 **AI News Recommender**  
+  Personalized news recommendations with category tagging and read time estimation.
 
-➡️ Each project includes a clear README and clean code
+- 🔹 **Sentiment Analysis Tool**  
+  Analyzes text to detect positive, negative, or neutral sentiment.
+
+- 🔹 **Smart Data AI Platform**  
+  End-to-end platform for data processing, visualization, and AI predictions.
+
+- 🔹 **Portfolio Website** *(optional next project)*  
+  Showcases your skills, projects, and professional profile.
+
+- 🔹 **Other Python/AI Mini Projects**  
+  Small projects demonstrating ML models, NLP experiments, or cloud integration.
 
 
 
